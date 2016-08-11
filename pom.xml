@@ -16,6 +16,7 @@
 		<module>demo-example-rdbms-ds</module>
 		<module>demo-example-ps</module>
 		<module>demo-example-rules-bs</module>
+        <module>demo-example-rule-kjar</module>
 	</modules>
 
 </project>
