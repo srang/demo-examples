@@ -1,18 +1,15 @@
-package com.rhc.drools.example;
+package com.rhc.example.services.mapper;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
-import java.util.Map;
-
+import java.util.Comparator;
 
 /**
  * Created by srang on 8/9/16.
  */
 public class Mapper<T,Y> {
-    private static final String PACKAGE = "com.rhc.drools.example";
+
+    private static final String PACKAGE = "com.rhc.example.services";
     private Class clatt;
     private Class clayy;
     public Mapper(Class clatt, Class clayy) {

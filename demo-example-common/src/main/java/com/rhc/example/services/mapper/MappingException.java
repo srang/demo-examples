@@ -1,4 +1,4 @@
-package com.rhc.drools.example;
+package com.rhc.example.services.mapper;
 
 /**
  * Created by srang on 8/9/16.
