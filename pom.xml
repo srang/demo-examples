@@ -28,6 +28,10 @@
         <mockito.version>1.10.19</mockito.version>
 	</properties>
 
+    <dependencies>
+
+    </dependencies>
+
 	<modules>
 		<module>demo-example-nosql-ds</module>
 		<module>demo-example-ps</module>
@@ -36,5 +40,5 @@
 		<module>demo-example-rule-kjar</module>
         <module>demo-example-common</module>
     </modules>
-    
+
 </project>
