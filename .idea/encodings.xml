@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/demo-example-nosql-ds" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-example-ps" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-example-rdbms-ds" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-example-rule-kjar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-example-rules" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-example-rules-bs" charset="UTF-8" />
   </component>
 </project>

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo-example-nosql-ds/demo-example-nosql-ds.iml" filepath="$PROJECT_DIR$/demo-example-nosql-ds/demo-example-nosql-ds.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-example-ps/demo-example-ps.iml" filepath="$PROJECT_DIR$/demo-example-ps/demo-example-ps.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-example-rdbms-ds/demo-example-rdbms-ds.iml" filepath="$PROJECT_DIR$/demo-example-rdbms-ds/demo-example-rdbms-ds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-example-rule-kjar/demo-example-rule-kjar.iml" filepath="$PROJECT_DIR$/demo-example-rule-kjar/demo-example-rule-kjar.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-example-rules-bs/demo-example-rules-bs.iml" filepath="$PROJECT_DIR$/demo-example-rules-bs/demo-example-rules-bs.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-examples.iml" filepath="$PROJECT_DIR$/demo-examples.iml" />
     </modules>
