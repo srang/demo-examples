@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="demo-example-rules-bs:war exploded">
+    <output-path>$PROJECT_DIR$/demo-example-rules-bs/target/demo-example-rules-bs-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="demo-example-rules-bs" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/demo-example-rules-bs/target/demo-example-rules-bs-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="demo-example-rules-bs/web/Web" />
+    </root>
+  </artifact>
+</component>
