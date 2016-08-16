@@ -12,6 +12,7 @@
 	<description>Demo Microservices with Spring</description>
 
 	<modules>
+		<module>demo-example-common</module>
 		<module>demo-example-nosql-ds</module>
 		<module>demo-example-rdbms-ds</module>
 		<module>demo-example-ps</module>
